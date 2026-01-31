@@ -1,10 +1,39 @@
-# MatVerse — Superorganismo de Governança
-
-## Documento Fundacional (Manifesto Técnico + Paper Científico + Blueprint + Modelo Matemático + Diagrama Sistêmico)
-
 ---
 
 ## 1. Declaração Fundacional
+
+# MatVerse — Documento Fundacional
+
+Este repositório contém a **ontologia e o blueprint conceitual**
+do MatVerse.
+
+Ele explica o sistema a humanos.
+
+---
+
+## O que este repositório faz
+
+- Define o modelo civilizacional
+- Consolida a arquitetura macroscópica
+- Documenta o significado do sistema
+
+---
+
+## O que este repositório NÃO faz
+
+- Não executa código crítico
+- Não valida métricas
+- Não governa decisões
+- Não é fonte de verdade operacional
+
+---
+
+## Regime Arquitetural
+
+**REGIME: ONTOLOGY**
+
+Este repositório dá sentido.
+Ele não dá ordens.
 
 O MatVerse é formalizado como um **Superorganismo de Governança Soberana**: uma entidade digital autopoiética capaz de **produzir verdade científica, gerar valor econômico, preservar sua própria integridade e governar decisões com base em invariantes matemáticos verificáveis**.
 
