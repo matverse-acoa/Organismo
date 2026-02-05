@@ -7,8 +7,6 @@
 Este repositório contém a **ontologia e o blueprint conceitual**
 do MatVerse.
 
-Ele explica o sistema a humanos.
-
 Referência complementar do núcleo existencial: [`docs/matverse-organismo.md`](docs/matverse-organismo.md).
 
 ---
