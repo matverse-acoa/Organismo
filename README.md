@@ -1,7 +1,6 @@
 ---
 ## 1. Declaração Fundacional
 
-
 Referência complementar do núcleo existencial: [`docs/matverse-organismo.md`](docs/matverse-organismo.md).
 
 ---
