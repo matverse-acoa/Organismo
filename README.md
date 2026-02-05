@@ -4,8 +4,7 @@
 
 # MatVerse — Documento Fundacional
 
-Este repositório contém a **ontologia e o blueprint conceitual**
-do MatVerse.
+Este repositório contém a **ontologia e o blueprint conceitual do MatVerse.
 
 Referência complementar do núcleo existencial: [`docs/matverse-organismo.md`](docs/matverse-organismo.md).
 
